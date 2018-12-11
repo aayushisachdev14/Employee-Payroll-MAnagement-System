@@ -565,5 +565,5 @@ public class Allowance extends javax.swing.JFrame {
     private javax.swing.JTextField txt_salary;
     private javax.swing.JTextField txt_search;
     private javax.swing.JTextField txt_totalovertime;
-    // End of variables declaration//GEN-END:variables
+   
 }
